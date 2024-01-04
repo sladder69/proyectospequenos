@@ -1,0 +1,48 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #3498db, #2c3e50); /* Fondo degradado */
+    color: #fff;
+  }
+  
+  header {
+    background-image: url('imagenes/Sonic\ WALLPAPER\ PC.jpeg');
+    background-size: cover;
+    background-position: center;    
+    font-size: 30px;
+    font-family: cursive;
+    padding: 20px;
+  }
+  .text{
+    border: 2px solid rgb(255, 255, 255);
+    padding: 10px;
+    padding-right: -10px;
+  }
+  .historia{
+    text-align: center;
+  }
+
+
+  h1 {
+    margin: 0;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  footer {
+    background: #34495e;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
